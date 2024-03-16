@@ -8,7 +8,7 @@ This repo is based on the work found at https://github.com/ml-explore/mlx-exampl
 ## Features
 
 - Generate images using text prompts through a web interface.
-- Supports different models including `stabilityai/sdxl-turbo` and `stabilityai/stable-diffusion-2-1`.
+- Supports models `stabilityai/sdxl-turbo` and `stabilityai/stable-diffusion-2-1`.
 
 
 ## Installation
