@@ -2,7 +2,7 @@
 
 ![A beautiful vase](out.png)
 
-This repository contains scripts for generating images using Stable Diffusion locally through a simple web interface powered by Gradio. It is built on Apple's MLX framework for Apple silicon. 
+This repository contains scripts for generating images using Stable Diffusion locally through a simple web interface. It is built on Apple's MLX framework for Apple silicon. 
 This repo is based on the work found at https://github.com/ml-explore/mlx-examples/tree/main/stable_diffusion.
 
 ## Features
